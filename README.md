@@ -1,6 +1,6 @@
 ### Hi there 👋
 Flutter developer at Encoder Bytes.
-Kectil Youth Leader
+Software Engineering Student at Islamia College Universtiy Peshawar
 
 - 🔭 I’m currently working on ...Dart and Flutter
 - 🌱 I’m currently learning ...Flutter
