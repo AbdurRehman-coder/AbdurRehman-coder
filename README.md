@@ -1,6 +1,6 @@
 ### Hi there 👋
-Flutter developer at Devex IT Enerprise.
-Studied Software Engineering at Islamia College Universtiy Peshawar.
+Flutter developer at Devex IT Enterprise.
+Studied Software Engineering at Islamia College University Peshawar.
 Kectil Youth Leader (Knowles Educational and Charitable Trust for International Leadership) (US Based)
 
 - 🔭 I’m currently working on ...Dart and Flutter
