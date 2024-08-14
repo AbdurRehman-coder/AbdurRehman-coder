@@ -4,7 +4,7 @@
 • 🌱 I’m currently learning more about Flutter Code Architecture and Software Architecture in general.<br/>
 • 🤔 I’m looking for help with how to work on Products and Creating Startups .<br/>
 • 💬 Ask me about Flutter, Firebase or any tech-related stuff.<br/>
-• 📫 How to reach me: Twitter - @AbdurRe68215247. <br/>
+• 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/abdur-rehman520/. <br/>
 • 😄 Pronouns: He/His<br/>
 
 ## 🌐Socials
