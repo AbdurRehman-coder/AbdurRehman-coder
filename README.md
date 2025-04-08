@@ -55,17 +55,44 @@ I'm a passionate and self-taught Mobile App Developer with over **4 years of exp
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🔧 Tech Stack
 
-If you're looking for a reliable, experienced developer who:
-- Delivers clean and maintainable code
-- Can architect complete mobile systems from scratch
-- Understands business needs beyond just code  
-→ Let’s build something meaningful together!
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-## 📫 Reach Me
+## 📈 GitHub Stats
 
-I'm currently open to freelance or remote opportunities.
+<div align="center">
+
+![Abdur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurRehman-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdurRehman-coder&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehman-coder&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 🌍 Socials
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdurrehman-520)  
+[![](https://visitcount.itsvg.in/api?id=AbdurRehman-coder&icon=0&color=1)](https://visitcount.itsvg.in)
+
+---
+
+## 🤝 Let’s Build Together
+
+If you're looking for a **reliable, performance-driven Flutter developer** to build your next big idea — whether it's an internal business tool, fintech platform, or AI-powered mobile app — feel free to connect with me!
+
 
