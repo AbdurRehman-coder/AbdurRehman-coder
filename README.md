@@ -91,8 +91,11 @@ I'm a passionate and self-taught Mobile App Developer with over **4 years of exp
 
 ---
 
-## 🤝 Let’s Build Together
+## 🤝 Let’s Collaborate
 
-If you're looking for a **reliable, performance-driven Flutter developer** to build your next big idea — whether it's an internal business tool, fintech platform, or AI-powered mobile app — feel free to connect with me!
-
+If you're looking for a reliable, experienced developer who:
+- Delivers clean and maintainable code
+- Can architect complete mobile systems from scratch
+- Understands business needs beyond just code  
+→ Let’s build something meaningful together!
 
